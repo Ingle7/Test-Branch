@@ -1,18 +1,18 @@
 # homepage
 head:
-  title: "LU Cyber Defense Club"
+  title: "LU Cybersecurity Club"
 # showcase
 showcase:
   enable: true
   title: "Liberty University"
-  subtitle: "Cyber Defense Club"
+  subtitle: "Cybersecurity Club"
   description: "Training cyber champions for Christ."
   image:
-    alt: "LU Cyber Defense Club"
+    alt: "LU Cybersecurity Club"
     x:  "/images/logo/Black-Logo.png"
     _2x: "/images/logo/Black-Logo.png"
   imageMobile:
-    alt: "LU Cyber Defense Club"
+    alt: "LU Cybersecurity Club"
     x:  "/images/logo/Black-Logo.png"
     _2x: "/images/logo/Black-Logo.png"
 
@@ -43,16 +43,17 @@ about:
 
 # education
 education:
-  enable: false
-  title: "Education"
+  enable: true
+  title: "Announcements"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "12/07/23"
+      degree: "no club tonight! We'll pick up next semester. Best of luck with finals!"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "12/03/23"
+      degree: "C (guest speaker from our previous meetings) will be giving a short presentation about his proposal on Physics-Informed Neural Networks on Wednesday (6th)! If you're interested, he'll be in DeMoss 3274 at 4:00 PM. No need to RSVP - this is a great opportunity to learn more about AI history, applications, and research! 
+"
+    - university: "T-Shirts"
+      degree: "Quick update on the shirts! They're a little delayed at the moment, so they probably won't be available tomorrow unfortunately. We'll let y'all know when they arrive!"
 
 # experience
 experience:
@@ -154,14 +155,14 @@ client_and_work:
 # testimonial
 testimonial:
   enable: false
-  title: "Testimonials"
+  title: "Announcements"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "12/07/23"
+      position: ""
+      content: "no club tonight! We'll pick up next semester. Best of luck with finals!"
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: ""
+        _2x: ""
 
     - name: "Jonathan Peters"
       position: "Textic, CEO"
